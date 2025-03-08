@@ -168,8 +168,8 @@ p.note { display: none; }
     
 <h2><span class="yellow">携帯ショップはどこも派手な明るさで目立ってます</span></h2>
 <a href="20250308_016.JPG" target="_blank"><img src="20250308_016.JPG" alt="サンプル画像" width="900" /></a>
-
-<h2><span class="yellow">i-Phone16eは13,900バーツ、約61,000円</span></h2>
+<!--
+<h2><span class="yellow">i-Phone16eは13,900バーツ、約61,000円</span></h2>-->
 <a href="20250308_017.JPG" target="_blank"><img src="20250308_017.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250308_018.JPG" target="_blank"><img src="20250308_018.JPG" alt="サンプル画像" width="900" /></a>
     
